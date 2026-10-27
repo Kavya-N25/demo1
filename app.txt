@@ -1,1 +1,2 @@
 Git merge experiment no 6
+Feature branch changes
